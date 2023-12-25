@@ -13,3 +13,7 @@
 1. سورس کد به زبان c
 2. فایل پروتئوس
 3. فایل pdf دستور کار
+
+### هم گروهی ها
+- [محمد اکبرپور جنت](https://github.com/mohammad-Akbarpour)
+- [مهدی فرخ باروقی](https://github.com/Mahdi-Farrokh-Baroughi)
